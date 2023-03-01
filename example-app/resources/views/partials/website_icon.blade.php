@@ -1,0 +1,1 @@
+<link rel="website icon" href="https://drlube.pertaminalubricants.com/public/img/centang.png">
