@@ -33,3 +33,12 @@ Route::get('/menu', function () {
 Route::get('/package', function () {
     return view('package');
 });
+
+Route::get('/login', function () {
+    return view('login');
+});
+
+
+Route::get('/signup', function () {
+    return view('signup');
+});

@@ -9,36 +9,15 @@
       <div class="swiper-wrapper">
 
          <div class="swiper-slide slide" style="background:url(image/gambar\ 10.jpg) no-repeat">
-            <div class="content">
-               <span>Keindahan Kota Di Indonesia</span>
-               <h3>SURABAYA, JAWA TIMUR</h3>
-               <a href="/package" class="btn">Petualangan Berikutnya</a>
-            </div>
          </div>
 
          <div class="swiper-slide slide" style="background:url(image/gambar\ 11.jpg) no-repeat">
-            <div class="content">
-               <span>Keindahan Kota Di Indonesia</span>
-               <h3>KOTA JAKARTA, INDONESIA</h3>
-               <a href="/package" class="btn">Petualangan Berikutnya</a>
-            </div>
          </div>
 
          <div class="swiper-slide slide" style="background:url(image/gambar\ 12.jpg) no-repeat">
-            <div class="content">
-               <span>Keindahan Kota Di Indonesia</span>
-               <h3>MANADO, SULAWESI UTARA</h3>
-               <a href="/package" class="btn">Petualangan Berikutnya</a>
-            </div>
          </div>
          <div class="swiper-slide slide" style="background:url(image/gambar\ 4.jpg) no-repeat">
-            <div class="content">
-               <span>Keindahan Kota Di Indonesia</span>
-               <h3>PULAU NIAS, SUMATERA UTARA</h3>
-               <a href="/package" class="btn">Petualangan Berikutnya</a>
-            </div>
          </div>
-
       </div>
 
       <div class="swiper-button-next"></div>
@@ -52,7 +31,7 @@
 
 <section class="home-packages">
 
-   <h1 class="heading-title"> PESONA INDONESIA</h1>
+   <h1 class="heading-title"> Sewa Gedung</h1>
 
    <div class="box-container">
 
@@ -61,7 +40,7 @@
             <img src="image/gambar 1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Raja Ampat Papua</h3>
+            <h3>Gedung Serba Guna ....</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
             <a href="/book" class="btn">Pesan Sekarang</a>
          </div>
@@ -72,7 +51,7 @@
             <img src="image/gambar 14.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Pantai Sumba, NTT</h3>
+            <h3>Studio .....</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
             <a href="/book" class="btn">Pesan Sekarang</a>
          </div>
@@ -83,7 +62,7 @@
             <img src="image/gambar 2.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Bunaken, Sulawesi Utara</h3>
+            <h3>Gedung Pernikahan</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
             <a href="/book" class="btn">Pesan Sekarang</a>
          </div>

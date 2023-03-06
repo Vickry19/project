@@ -171,7 +171,7 @@
 
    </div>
 
-   <div class="load-more"><span class="btn">Lihat Berikutnya</span></div>
+
 
 </section>
 

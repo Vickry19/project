@@ -1,13 +1,16 @@
 <section class="header">
 
-    <a href="/" class="logo">Murah Senyum Travel</a>
+    <a href="/" class="logo">Sewa Gedung </a>
 
     <nav class="navbar">
-        <a href="/">Main</a>
-        <a href="/menu">Wisata</a>
-        <a href="/about">Perjalanan</a>
+        <a href="/">Home</a>
+        <a href="/menu">Menu</a>
+        <a href="/about">About</a>
         <a href="/package">Paket</a>
         <a href="/book">Pesan</a>
+        <a href="/login">Login</a>
+
+
     </nav>
 
     <div id="menu-btn" class="fas fa-bars"></div>
