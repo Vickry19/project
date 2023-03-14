@@ -1,9 +1,7 @@
 @extends('layouts.main')
 
 @section('content')
-<div class="heading" style="background:url(image/gambar\ 3.jpg) no-repeat">
-   <h1>Pulau Komodo</h1>
-</div>
+
 
 <!-- about section starts  -->
 
@@ -14,8 +12,8 @@
    </div>
 
    <div class="content">
-      <h3>Mari Berpetualang Bersama kami</h3>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure numquam nulla iusto corporis dolor commodi libero, vitae obcaecati optio rerum ab culpa nesciunt, earum mollitia quasi ipsam non. Aliquid, iure.</p>
+      <h3>Mari Sewa Gedung di kami</h3>
+      <p>Ada berbagai gedung mewah dan indah yang kami sajikan</p>
 
       <div class="icons-container">
          <div class="icons">
@@ -24,7 +22,7 @@
          </div>
          <div class="icons">
             <i class="fas fa-hand-holding-usd"></i>
-            <span>Daftar harga</span>
+            <span>Harga Murah</span>
          </div>
          <div class="icons">
             <i class="fas fa-headset"></i>
@@ -56,8 +54,8 @@
                <i class="fas fa-star"></i>
             </div>
             <p>Senang sekali Pesan disini, Ramah.</p>
-            <h3>Susan Lee</h3>
-            <span>Akuntan</span>
+            <h3>Susan</h3>
+            <span>Pegawai Kantor</span>
             <img src="image/foto.jpg" alt="">
          </div>
 
@@ -68,8 +66,8 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Pelayanannya Mantap ?</p>
-            <h3>Susan Lee</h3>
+            <p>Pelayanannya Mantap </p>
+            <h3>susanti</h3>
             <span>Sekretaris</span>
             <img src="image/foto 2.jpg" alt="">
          </div>
@@ -81,7 +79,7 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Senang Sekali!</p>
+            <p>Senang Sekali !, sangat baik pelayanannya</p>
             <h3>Soo Min </h3>
             <span>Artis</span>
             <img src="image/foto 3.jpg" alt="">
@@ -98,7 +96,7 @@
             <p>Senang bisa pesan disini</p>
             <h3>Lisa Wang</h3>
             <span>Desain</span>
-            <img src="image/foto.jpg" alt="">
+            <img src="image/foto 5.jpg" alt="">
          </div>
 
          <div class="swiper-slide slide">
@@ -109,7 +107,7 @@
                 <i class="fas fa-star"></i>
                  <i class="fas fa-star"></i>
             </div>
-            <p>Senang Bisa Berkunjung?</p>
+            <p>pelayanannya ramah dan baik</p>
             <h3>Miryam Chung</h3>
             <span>Sekretaris</span>
             <img src="image/foto1.jpg" alt="">
@@ -122,10 +120,10 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Bagus Pelayanannya?</p>
-            <h3>Susan Lee</h3>
-            <span>Akuntan</span>
-            <img src="image/foto 2.jpg" alt="">
+            <p>Bagus Pelayanannya</p>
+            <h3>Amira</h3>
+            <span>Ibu Rumah Tangga</span>
+            <img src="image/foto 6.jpg" alt="">
          </div>
 
       </div>

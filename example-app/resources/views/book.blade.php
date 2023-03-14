@@ -23,9 +23,6 @@
 @include('partials.navbar')
 
 <!-- Mulai Heading -->
-<div class="heading" style="background:url(image/gambar\ 11.jpg) no-repeat">
-   <h1>JAKARTA</h1>
-</div>
 
 <!-- Mulai Pesanan  -->
 
@@ -49,8 +46,8 @@
             <input type="tel" placeholder="Masukan Nomor Anda" name="phone">
          </div>
          <div class="inputBox">
-            <span>Alamat:</span>
-            <input type="text" placeholder="Masukan Alamat Anda" name="address">
+            <span>Jenis Geudng:</span>
+            <input type="text" placeholder="Masukan Jenis Gedung" name="address">
          </div>
          <div class="inputBox">
             <span>Check in:</span>

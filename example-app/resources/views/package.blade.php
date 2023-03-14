@@ -25,146 +25,76 @@
 
 <!-- Mulai Heading-->
 
-<div class="heading" style="background:url(image/gambar\ 10.jpg) no-repeat">
-   <h1>WISATA INDONESIA</h1>
-</div>
-
 <!-- Mulai Paket  -->
 
 <section class="packages">
 
-   <h1 class="heading-title">TEMPAT POPULER</h1>
+   <h1 class="heading-title">GEDUNG FAVORIT</h1>
 
    <div class="box-container">
 
       <div class="box">
          <div class="image">
-            <img src="image/gambar 13.png" alt="">
+            <img src="image/gedung serbaguna_2.jpg" alt="">
          </div>
          <div class="content">
-            <h3> Pantai Lombok, Nusa Tenggara Barat </h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3> Gedung Serbaguna  </h3>
+            <p>Gedung dengan harga murah tapi mewah</p>
             <a href="/book" class="btn">Pesan Sekarang</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="image/gambar 14.jpg" alt="">
+            <img src="image/gedung mewah.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Pantai Sumba, Nusa Tenggara Timur</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Gedung Serbaguna  </h3>
+            <p>Gedung serbaguna mewah, elegan dan indah</p>
             <a href="/book" class="btn">Pesan Sekarang</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="image/gambar 9.jpg" alt="">
+            <img src="image/gedung makasar.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Pantai Kendari, Sulawesi Tenggara</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Gedung Pernikahan </h3>
+            <p>Gedung meriah dan mewah</p>
             <a href="/book" class="btn">Pesan Sekarang</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="image/gambar 15.jpg" alt="">
+            <img src="image/gedung-pernikahan.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Pantai Sulawesi, Sulawesi Tengah</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Gedung Pernikahan </h3>
+            <p>murah meriah dan mewah</p>
             <a href="/book" class="btn">Pesan Sekarang</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="image/gambar 16.jpg" alt="">
+            <img src="image/gedung 1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Pantai Losari, Sulawesi Selatan</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Hotel </h3>
+            <p>Hotel bintang 4 dengan pelayana ramah dan harga yang terjangkau </p>
             <a href="/book" class="btn">Pesan Sekarang</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="image/gambar 17.jpg" alt="">
+            <img src="image/HI.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Pantai Sanur, Bali</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="/book" class="btn">Pesan Sekarang</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="image/gambar 2.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Bunaken, Sulawesi Utara</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="/book" class="btn">Pesan Sekarang</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="image/gambar 5.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Tana Toraja, Sulawesi Selatan</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="/book" class="btn">Pesan Sekarang</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="image/gambar 18.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Pantai Mentawai, Sumatera Barat</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="/book" class="btn">Pesan Sekarang</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="image/gambar 19.png" alt="">
-         </div>
-         <div class="content">
-            <h3>Pantai Nias, Sumatera Utara</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="/book" class="btn">Pesan Sekarang</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="image/gambar 20.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Pulau Cinta, Gorontalo</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
-            <a href="/book" class="btn">Pesan Sekarang</a>
-         </div>
-      </div>
-
-      <div class="box">
-         <div class="image">
-            <img src="image/gambar 1.jpg" alt="">
-         </div>
-         <div class="content">
-            <h3>Raja Ampat, Papua Barat</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Hotel Indonesia </h3>
+            <p>Hotel bintang 5 dengan fasilitas terbaik dan pelayanan ramah </p>
             <a href="/book" class="btn">Pesan Sekarang</a>
          </div>
       </div>

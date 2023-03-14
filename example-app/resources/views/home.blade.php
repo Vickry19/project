@@ -6,22 +6,10 @@
 
    <div class="swiper home-slider">
 
-      <div class="swiper-wrapper">
 
-         <div class="swiper-slide slide" style="background:url(image/gambar\ 10.jpg) no-repeat">
-         </div>
-
-         <div class="swiper-slide slide" style="background:url(image/gambar\ 11.jpg) no-repeat">
-         </div>
-
-         <div class="swiper-slide slide" style="background:url(image/gambar\ 12.jpg) no-repeat">
-         </div>
-         <div class="swiper-slide slide" style="background:url(image/gambar\ 4.jpg) no-repeat">
-         </div>
+         <div class="swiper-slide slide" style="background:url(image/hotel\ 4.jpg) no-repeat">
+      
       </div>
-
-      <div class="swiper-button-next"></div>
-      <div class="swiper-button-prev"></div>
 
    </div>
 
@@ -37,33 +25,33 @@
 
       <div class="box">
          <div class="image">
-            <img src="image/gambar 1.jpg" alt="">
+            <img src="image/gedung serbaguna_1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Gedung Serba Guna ....</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+            <h3>Gedung Serba Guna</h3>
+            <p>Berbagai Gedung indah dan mewah </p>
             <a href="/book" class="btn">Pesan Sekarang</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="image/gambar 14.jpg" alt="">
+            <img src="image/hotel 1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>Studio .....</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+            <h3>Hotel </h3>
+            <p>Bermacam macam hotel bintang lima </p>
             <a href="/book" class="btn">Pesan Sekarang</a>
          </div>
       </div>
 
       <div class="box">
          <div class="image">
-            <img src="image/gambar 2.jpg" alt="">
+            <img src="image/gedung makasar.jpg" alt="">
          </div>
          <div class="content">
             <h3>Gedung Pernikahan</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+            <p>Berbagai macam gedung pernikahan </p>
             <a href="/book" class="btn">Pesan Sekarang</a>
          </div>
       </div>
@@ -79,7 +67,7 @@
 <section class="home-offer">
    <div class="content">
       <h3>Tunggu Apalagi</h3>
-      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure tempora assumenda, debitis aliquid nesciunt maiores quas! Magni cumque quaerat saepe!</p>
+      <p>Ayo Sewa di SEWA GEDUNG kami</p>
       <a href="/book" class="btn">Pesan Sekarang</a>
    </div>
 </section>
