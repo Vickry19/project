@@ -15,7 +15,7 @@
           <h3>Info Kontak</h3>
           <a href="#"> <i class="fas fa-phone"></i> 0895 6104 84439</a>
           <a href="#"> <i class="fas fa-phone"></i>021-22131229  </a>
-          <a href="#"> <i class="fas fa-envelope"></i> sewagedung@gmail.com</a>
+          <a href="#"> <i class="fas fa-envelope"></i> buildingrent@gmail.com</a>
           <a href="#"> <i class="fas fa-map"></i> Jakarta, Indonesia</a>
        </div>
  
@@ -28,6 +28,6 @@
        </div>
  
     </div>
-    <div class="credit"> Copyright <span>Sewa Gedung</span> 2022 </div>
+    <div class="credit"> Copyright <span>Building Rent</span> 2022 </div>
 
 </section>

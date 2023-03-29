@@ -1,6 +1,6 @@
 <section class="header">
 
-    <a href="/" class="logo">Sewa Gedung </a>
+    <a href="/" class="logo">Building Rent </a>
 
     <nav class="navbar">
         <a href="/">Home</a>

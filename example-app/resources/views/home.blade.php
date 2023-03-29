@@ -19,7 +19,7 @@
 
 <section class="home-packages">
 
-   <h1 class="heading-title"> Sewa Gedung</h1>
+   <h1 class="heading-title"> Building Rent</h1>
 
    <div class="box-container">
 
@@ -67,7 +67,7 @@
 <section class="home-offer">
    <div class="content">
       <h3>Tunggu Apalagi</h3>
-      <p>Ayo Sewa di SEWA GEDUNG kami</p>
+      <p>Ayo Sewa di Building Rent kami</p>
       <a href="/book" class="btn">Pesan Sekarang</a>
    </div>
 </section>

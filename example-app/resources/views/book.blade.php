@@ -46,7 +46,7 @@
             <input type="tel" placeholder="Masukan Nomor Anda" name="phone">
          </div>
          <div class="inputBox">
-            <span>Jenis Geudng:</span>
+            <span>Jenis Gedung:</span>
             <input type="text" placeholder="Masukan Jenis Gedung" name="address">
          </div>
          <div class="inputBox">
